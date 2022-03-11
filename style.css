@@ -11,7 +11,7 @@ body {
     display: flex;
     max-height: 500px;
     max-width: 870px;
-    margin: 180px auto;
+    margin: 140px auto;
     background-color:  hsl(244, 38%, 16%);
     justify-content: center;
 }
